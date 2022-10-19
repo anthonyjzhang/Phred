@@ -1,4 +1,4 @@
-# Prototype of Phred App
+# 🧪 Prototype of Phred App
 
 Comprehensive web application solution for children between 9-18 years in Borneo working with non-profit Alam Sehat Lestari (ASRI) to encourage ASRI children to participate in conservation process by collecting envrionmental data. 
 
@@ -8,6 +8,6 @@ Current environmental data storage system used in Borneo makes input analysis of
 
 Our solution to Dr. Brian Mcadoo and his team has updated the current collection process to facilitate efficient inputting and storage solutions for environmental indicators for soil composition in Borneo forests. Data storage integrates inputting options for results from water minerals, dissolved oxygen levels, pH levels, turbidity and nitrate/nitrite concentration. 
 
-## Installation Instructions
+## 📝 Installation Instructions
 
 To run this on your computer, you must install https://docs.npmjs.com/downloading-and-installing-node-js-and-npm on your device. You can run the application locally and access it at http://localhost:3000.
