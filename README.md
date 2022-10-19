@@ -1,12 +1,6 @@
-# FIRST PROTOTYPE OF PHRED APP
-
-to run this on your computer, you must install https://docs.npmjs.com/downloading-and-installing-node-js-and-npm on your device. 
+# Prototype of Phred App
 
 
-# RUN NPM INSTALL
+# Installation Instructions
 
-install all neccessary packages
-
-# NPM START
-
-run the application locally and access at  http://localhost:3000
+To run this on your computer, you must install https://docs.npmjs.com/downloading-and-installing-node-js-and-npm on your device. You can run the application locally and access it at http://localhost:3000.
