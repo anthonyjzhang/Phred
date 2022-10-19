@@ -1,5 +1,8 @@
-# Prototype of Phred App
+Prototype of Phred App
 
+Planetary Health Kits distribution network. 
+
+# Summary
 
 # Installation Instructions
 
